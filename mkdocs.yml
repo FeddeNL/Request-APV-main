@@ -1,0 +1,22 @@
+site_name: Request Roleplay wet en regelgeving
+
+theme:
+  name: material
+  langueage: en
+  logo: logo.png
+  favicon: favicon.png
+ 
+# Copyright
+copyright: Copyright © 2024 Request Roleplay
+
+site_url: https://waveapv.wavetestserver.nl
+
+repo_name: GitHub
+repo_url: https://github.com/FeddeNL/Request-APV-main
+
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Keybinds: keybinds.md
+  - Voertuigenlijst: voertuigenlijst.md
+  - Wapens & Items: weapon-items.md
