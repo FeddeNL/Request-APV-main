@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://waveapv.wavetestserver.nl/</loc>
+         <loc>https://requestapv.github.io/</loc>
          <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://waveapv.wavetestserver.nl/apv/</loc>
+         <loc>https://requestapv.github.io/apv/</loc>
          <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://waveapv.wavetestserver.nl/keybinds/</loc>
+         <loc>https://requestapv.github.io/keybinds/</loc>
          <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://waveapv.wavetestserver.nl/voertuigenlijst/</loc>
+         <loc>https://requestapv.github.io/voertuigenlijst/</loc>
          <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://waveapv.wavetestserver.nl/weapon-items/</loc>
+         <loc>https://requestapv.github.io/weapon-items/</loc>
          <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
